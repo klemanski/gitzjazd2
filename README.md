@@ -2,8 +2,6 @@
 
 ### dodane na githubie
 
-'''python
 
-print("test")
 
-'''
+### zmiana na komputerze
